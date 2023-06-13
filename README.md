@@ -1,4 +1,4 @@
-### Olá! eu sou a Nicolly Juliani 
+### Olá Dev! eu sou a Nicolly Juliani
 
 - 🌱 Estudando: HTML, CSS, JavaScript e Mysql
 - 😄 Pronomes: ela/dela
